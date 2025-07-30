@@ -59,10 +59,10 @@ The main objective is to build a simple and intuitive web interface that:
 1. Let user choose QR color and background
 
 2. Let user download QR code in JPG, SVG, or PDF
+   
+3.Add history of generated codes
 
- 3.Add history of generated codes
-
- 4.Deploy to Render/Heroku
+4.Deploy to Render/Heroku
 
 ---
  
